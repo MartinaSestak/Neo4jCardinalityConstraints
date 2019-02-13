@@ -1,4 +1,4 @@
-= Neo4j Procedure Template
+= Neo4j Cardinality Constraints Procedures
 :branch: 3.5.3
 :root: https://github.com/MartinaSestak/Neo4jCardinalityConstraints/{branch}/src
 
