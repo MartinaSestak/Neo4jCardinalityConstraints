@@ -3,12 +3,12 @@
                       http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.neo4j.example</groupId>
-  <artifactId>procedure-template</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+    <groupId>org.um.martinasestak</groupId>
+    <artifactId>mincardcontraints</artifactId>
+    <version>0.0.1</version>
 
   <packaging>jar</packaging>
-  <name>Neo4j Procedure Template</name>
+    <name>Neo4j Procedure for Minimum kCardinality</name>
   <description>A template project for building a Neo4j Procedure</description>
 
   <properties>
